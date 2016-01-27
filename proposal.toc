@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}Project Summary}{3}
+\contentsline {section}{\numberline {2}Specification of Requirements}{3}
+\contentsline {section}{\numberline {3}Preliminary Project Plan}{3}
+\contentsline {subsection}{\numberline {3.1}Current Phase: Definition of Requirements}{3}
+\contentsline {subsection}{\numberline {3.2}Design}{3}
+\contentsline {subsection}{\numberline {3.3}Development}{3}
+\contentsline {subsection}{\numberline {3.4}Testing}{3}
+\contentsline {subsection}{\numberline {3.5}Acceptance}{3}
+\contentsline {section}{\numberline {4}Development Environment}{4}
+\contentsline {subsection}{\numberline {4.1}Server Environment}{4}
+\contentsline {subsection}{\numberline {4.2}Front End Framework}{4}
+\contentsline {subsection}{\numberline {4.3}Documentation Maintenance}{4}
+\contentsline {section}{\numberline {5}Acceptance Criteria}{4}
+\contentsline {section}{\numberline {6}Design Proposal}{4}
